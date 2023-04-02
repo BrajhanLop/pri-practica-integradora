@@ -1,0 +1,53 @@
+[
+  {
+    "id": "5d55eef9-e780-45f1-9552-e7506a808427",
+    "title": "galleta soda",
+    "description": "galleta salada",
+    "code": "gl-443",
+    "price": "50",
+    "status": true,
+    "stock": "10",
+    "category": "galletas"
+  },
+  {
+    "id": "5c8ae093-0a02-4a03-aba3-228b01d59b91",
+    "title": "fideo don victorio",
+    "description": "fideo de maiz",
+    "code": "fdv-234",
+    "price": "54",
+    "status": true,
+    "stock": "54",
+    "category": "fideos"
+  },
+  {
+    "id": "8176d7fc-91c1-4443-bb88-257b0f8932ca",
+    "title": "Gaseosa inka cola",
+    "description": "gaseosa amarilla",
+    "code": "gi-010",
+    "price": 30,
+    "status": true,
+    "stock": 15,
+    "category": "gaseosas",
+    "thumbnails": "url"
+  },
+  {
+    "id": "15b19dc9-e7a7-4e8f-a5af-11aa2ff4783b",
+    "title": "Gaseosa Sprites",
+    "description": "gaseosa verde",
+    "code": "gs-001",
+    "price": 10,
+    "stock": 10,
+    "category": "gaseosas",
+    "thumbnails": "url"
+  },
+  {
+    "id": "53fa18ad-8879-40e9-8e0b-562228043730",
+    "title": "galleta glacitas",
+    "description": "galletas dulces",
+    "code": "ggl-543",
+    "price": "10",
+    "status": true,
+    "stock": "100",
+    "category": "galletas"
+  }
+]
