@@ -1,4 +1,4 @@
-# Nodejs-coder (Desafio 4)
+# Nodejs-coder (Primera Práctica Integradora)
 Para iniciar escriba: 
 - npm i
 - npm run dev
@@ -8,6 +8,10 @@ http://localhost:8080/
 
 #Ruta dinamica(se puede agregar y eliminar productos)
 http://localhost:8080/realtimeproducts
+
+#Ruta chat
+http://localhost:8080/chat
+
 
 # Documentanción en Postman:
 ## 🔗 Link
